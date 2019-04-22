@@ -1,0 +1,1 @@
+<footer class="footer">Copyright &copy; 2019 <span class="d-none d-sm-inline-block">Design &amp; Developed By - </span><strong><a href="http://paathshalaiit.com" target="_blank">Paathshala Education</a></strong></footer>
